@@ -46,3 +46,8 @@ public:
     }
 };
 
+int main() {
+    LayangLayang ObjectLayang;
+    BelahKetupat ObjectBelah;
+
+    
